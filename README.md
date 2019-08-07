@@ -1,3 +1,13 @@
+# Book Store applcation
+React + Redux
+
+[![1.png](https://i.postimg.cc/QCV9tRpT/1.png)](https://postimg.cc/QKGxYYY8)
+[![2.png](https://i.postimg.cc/9QH054NT/2.png)](https://postimg.cc/JGKMjh84)
+[![3.png](https://i.postimg.cc/SQwCRxvQ/3.png)](https://postimg.cc/Hj9VPdmF)
+[![4.png](https://i.postimg.cc/cJ482grh/4.png)](https://postimg.cc/9DKMqfPw)
+[![5.png](https://i.postimg.cc/QxGKsnFH/5.png)](https://postimg.cc/bdgw9gHh)
+[![6.png](https://i.postimg.cc/1RcsnWWg/6.png)](https://postimg.cc/Bt6dRCfs)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
