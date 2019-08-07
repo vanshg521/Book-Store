@@ -1,5 +1,5 @@
 # Book Store applcation
-React + Redux
+React + Redux application
 
 [![1.png](https://i.postimg.cc/QCV9tRpT/1.png)](https://postimg.cc/QKGxYYY8)
 [![2.png](https://i.postimg.cc/9QH054NT/2.png)](https://postimg.cc/JGKMjh84)
